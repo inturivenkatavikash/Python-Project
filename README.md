@@ -1,4 +1,4 @@
-# 🚦 Traffic Accident Data Analysis & Severity Prediction Using Machine Learning 
+# 🚦 Traffic Accident Data Analysis & Severity Prediction Using Machine Learning In Python
 
 ## 📖 Project Description
 
